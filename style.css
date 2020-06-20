@@ -45,7 +45,7 @@
 /* Jumbotron */
 
 .jumbotron {
-    background-image: url(img/jumbotron.png);
+    background-image: url(jumbotron.png);
     background-size: cover;
     height: 570px;
     text-align: center;
@@ -150,7 +150,7 @@
 
 .about-right {
     width: 40%;
-    background-image: url(img/tentang-kami.png);
+    background-image: url(tentang-kami.png);
     background-position: left;
     background-size: cover;
 }
